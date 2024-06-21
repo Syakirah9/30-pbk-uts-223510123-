@@ -122,3 +122,4 @@
     text-decoration: line-through;
   }
   </style>
+  
